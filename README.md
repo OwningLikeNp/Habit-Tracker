@@ -53,7 +53,7 @@ Dive into detailed analytics, from viewing all habits at a glance to dissecting 
 ## Enhancements and Collaboration
 The open-source nature of this project invites contributions and suggestions for improvement. Engage with the project by forking the repository, creating feature branches, and submitting pull requests to weave your innovations into the fabric of this platform.
 
-Project Repository: [Habit Management Platform](https://github.com/OwningLikeNp/Habit-Tracker)
+Project Repository: [Habit Tracker](https://github.com/OwningLikeNp/Habit-Tracker)
 
 (<a href="#overview">back to top</a>)
 
